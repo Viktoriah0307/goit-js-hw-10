@@ -8,7 +8,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #fafafa;
-  color: #cf9999;
+  color: #212121;
   line-height: 1.5;
 }
 
@@ -38,7 +38,7 @@ ul {
   outline: none;
   border-radius: 3.125rem;
 
-  background: transparent;
+  background: #fafafa;
   color: #03a9f4;
   font-weight: 600;
   font-size: 0.875rem;
